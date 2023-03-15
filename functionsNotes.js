@@ -1,8 +1,8 @@
 //Functions Notes
-//Step 1 - Define the Function
-function sayHello() {
-    console.log("Hello");
-}
+// //Step 1 - Define the Function
+// function sayHello() {
+//     console.log("Hello");
+// }
 //Step 2 - Call (use) the Function
 //sayHello();
 //sayHello();
