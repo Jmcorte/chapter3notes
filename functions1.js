@@ -10,13 +10,6 @@ function findAreaofCircle(radius) {
 findAreaofCircle(1);
 findAreaofCircle(2);
 
-function findmin(){
-    let x =7;
-    let y =6;
-    if (x>y){
-        console.log(`the shortest number is ${x}`);
-    }else {
-        console.log(`the shortest number is ${y}`);
-    }
+function findmin(number1,number2) {
+console.log()
 }
-    
